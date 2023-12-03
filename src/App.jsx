@@ -29,7 +29,7 @@ const siteProps = {
   email: "jesuson567@hotmail.com",
   gitHub: "JesusP5",
   instagram: "chucho_dp13",
-  linkedIn: "jesuspeña",
+  linkedIn: "jesús-peña-ab3a36228",
   medium: "",
   twitter: "jesuson5671",
   youTube: "chucho_dp13",
