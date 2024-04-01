@@ -44,8 +44,7 @@ const projectList = [
   },
   {
     title: "Financial Visualization",
-    description:
-      "I created a financial visualization using Python and some libraries.",
+    description: "I created a financial visualization using Python and some libraries.",
     url: "https://github.com/JesusP5/Kaio_1",
   },
   {
