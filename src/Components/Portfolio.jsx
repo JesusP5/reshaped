@@ -31,28 +31,28 @@ const imageAltText = "An image about a code desktop";
  */
 const projectList = [
   {
-    title: "Where is the future of the technology industry headed?",
+    title: "Simulación de un sistema de clustering",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "For my Distributed Systems class, I created a simulation of a clustering system using Python and some libraries.",
+    url: "https://github.com/JesusP5/Cluster",
   },
   {
-    title: "Web Development for Beginners",
+    title: "IA project to predict the best hours to take a bus in my university",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this project, I used Python and some libraries to predict the best hours to take a bus in my university.",
+    url: "https://github.com/SlowpyWalnout/ProyectoFinal_IA",
   },
   {
-    title: "My Resume Site",
+    title: "Financial Visualization",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I created a financial visualization using Python and some libraries.",
+    url: "https://github.com/JesusP5/Kaio_1",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Portfolio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I do this portfolio using React, HTML, CSS, and JavaScript. In a Github practice. Using codespaces and Github pages.",
+    url: "https://github.com/JesusP5/reshaped",
   },
 ];
 
